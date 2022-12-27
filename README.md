@@ -54,3 +54,7 @@ Thank you to user [Medaxone](https://www.kaggle.com/medaxone) for creating the [
 My initial on the notebook was done on [Kaggle](https://www.kaggle.com/code/amadlover/fics-chess-2021/)
 
 [Blog](https://medium.com/@nihal.kenkre/dissecting-the-fics-2021-chess-dataset-d1f2adc93858) article
+
+## Warning
+The Chess2021.csv is a subset of the original Chess2021.csv file on Kaggle, only containing the columns useful to the process,
+`Event, Date, White, Black, Result, WhiteElo, BlackElo, ECO, Movetext`
