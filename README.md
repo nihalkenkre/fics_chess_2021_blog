@@ -22,8 +22,8 @@ README.md                   # This file
 We wanted to see if we could answer these questions using this dataset.
 
 ### Is there an opening which has more wins for a particular color?
-![ans_1](imgs/q1_opening_wins_color.png)
-Queen's Pawn Game was played the most times across the different game types when White won. This can be further dissected by game type. Similar plot can be shown for black as well.
+![ans_1](imgs/q1_opening_wins_color_w.png)
+Queen's Pawn Game was played the most times across the different game types when White won. This can be further dissected by game type.
 
 
 ### Is there an opening played at a particular type of event ?
