@@ -40,17 +40,22 @@ As seen the Sicilian game is most played/preferred by the user 'Geforce'
 There is an even distribution of wins with white and black, among all top active players.
 
 ### Which opening was played the most based on AVG ELO of the players in the game?
-![ans_5](imgs/q5_opening_elo_avg.png)
-From the dataframes, it can be seen that the Guioco Piano and Ruy Lopez openings are played a lot in high ELO games as opposed to lower ELO games.
+![ans_5](imgs/q5_opening_elo_avg_3000_3500.png)
+From the dataframes, it can be seen that the Guioco Piano and Ruy Lopez openings are played a lot in high ELO games.
 
-## Modules
+## Modules and Installation
 Python was used as the programming language.
 Pandas was used to deal with the .csv data.
 Seaborn and Matplotlib were used for the plotting / graphing of various data.
+
+All required modules and dependencies can be installed with 
+```
+pip install -r requirements.txt
+```
 
 ## Acknowledgements
 Thank you to user [Medaxone](https://www.kaggle.com/medaxone) for creating the [FICS Chess Dataset 2021](https://www.kaggle.com/datasets/medaxone/fics-chess-dataset-2021).
 
 My initial on the notebook was done on [Kaggle](https://www.kaggle.com/code/amadlover/fics-chess-2021/)
 
-[Blog](https://medium.com/@nihal.kenkre/dissecting-the-fics-2021-chess-dataset-d1f2adc93858) article
+[Blog Article](https://medium.com/@nihal.kenkre/dissecting-the-fics-2021-chess-dataset-d1f2adc93858)
