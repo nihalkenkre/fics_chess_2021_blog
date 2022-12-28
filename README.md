@@ -56,6 +56,6 @@ pip install -r requirements.txt
 ## Acknowledgements
 Thank you to user [Medaxone](https://www.kaggle.com/medaxone) for creating the [FICS Chess Dataset 2021](https://www.kaggle.com/datasets/medaxone/fics-chess-dataset-2021).
 
-My initial on the notebook was done on [Kaggle](https://www.kaggle.com/code/amadlover/fics-chess-2021/)
+My initial work on the notebook was done on [Kaggle](https://www.kaggle.com/code/amadlover/fics-chess-2021/)
 
 [Blog Article](https://medium.com/@nihal.kenkre/dissecting-the-fics-2021-chess-dataset-d1f2adc93858)
